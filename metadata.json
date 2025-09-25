@@ -1,0 +1,5 @@
+{
+  "name": "TAM LABS Capacity Simulator",
+  "description": "A responsive web application to simulate and visualize the production capacity of TAM LABS based on employee count, product focus, and equipment.",
+  "requestFramePermissions": []
+}
